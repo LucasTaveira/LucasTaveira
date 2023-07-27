@@ -3,7 +3,7 @@
 Tenho 28 anos, moro em Natal/RN, apaixonado pelo que faço e amante de novos desafios.
 Melhor parte de refatorar seu próprio código ? ver o quanto você evoluiu. 
 
-### 🖥️ Tecnologias e Ferramentas: 
+#### 🖥️ Tecnologias e Ferramentas: 
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title = "PYTHON"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" title = "DJANGO"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title = "TYPESCRIPT"/></code>
