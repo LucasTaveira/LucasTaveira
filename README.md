@@ -15,7 +15,7 @@ Sou Lucas Taveira, um Desenvolvedor Backend experiente com formação em Redes d
 
 ## 🌐 Onde me encontrar  
 - [LinkedIn](https://www.linkedin.com/in/lucas-taveira-0300ba208/)  
-- [Instagram](https://www.salesforce.com/trailblazer/lucas-taveira) **Aprendendo**
+- [Trailblazer](https://www.salesforce.com/trailblazer/lucas-taveira) **Aprendendo**
 
 ---
 
@@ -36,4 +36,4 @@ I’m Lucas Taveira, an experienced Backend Developer with a degree in Computer 
 
 ## 🌐 Find me online  
 - [LinkedIn](https://www.linkedin.com/in/lucas-taveira-0300ba208/)  
-- [Instagram](https://www.salesforce.com/trailblazer/lucas-taveira) **learning**
+- [Trailblazer](https://www.salesforce.com/trailblazer/lucas-taveira) **learning**
